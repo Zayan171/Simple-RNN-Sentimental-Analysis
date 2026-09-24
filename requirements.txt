@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow==2.16.2
+streamlit
+h5py
+openpyxl
+xgboost
